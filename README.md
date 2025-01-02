@@ -3,7 +3,7 @@ A generic class for implementing an array-based set in C++20, utilizing a templa
 
 *This project's set class implements the following methods:*
 
-- Constructors: A default constructor and a capacity constructor to initialize the set's capacity
+- Constructors: A default constructor and a capacity constructor to initialize the set's capacity.
 - Destructor: Ensures memory allocated to the set is properly freed, preventing memory leaks.
 - find(): Returns the index of a given element.
 - insert(): Inserts and item into the set. There are two versions of this implemented. One version appends an item to the set and the other inserts at a position specified by the user.
