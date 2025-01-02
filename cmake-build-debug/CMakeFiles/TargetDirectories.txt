@@ -1,0 +1,3 @@
+C:/Users/Crazy/Documents/GitHub/Sets-and-Sorts/cmake-build-debug/CMakeFiles/IT230_Project1.dir
+C:/Users/Crazy/Documents/GitHub/Sets-and-Sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Crazy/Documents/GitHub/Sets-and-Sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v6
+28	510	7575456448458540	CMakeFiles/IT230_Project1.dir/mySet.cpp.obj	e0632e170bff8f9a
+22	425	7575456448407131	CMakeFiles/IT230_Project1.dir/main.cpp.obj	314bbf69ec813ada
+510	663	7575456453276256	IT230_Project1.exe	5c9abd7bb6d2faec
+4	357	7575459238990440	build.ninja	b75aecd3a57e2bc0
+1	289	7575459238990440	build.ninja	b75aecd3a57e2bc0
